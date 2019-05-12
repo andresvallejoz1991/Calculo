@@ -141,6 +141,7 @@ public class ProyectoCalculo {
             default:
                 System.out.println("no se ah seleccionado una ecuacion");
         }
-        System.out.printf("Valores:\nX\tY%s\n", tabla);
+        System.out.printf("Valores:\nX\tY%s\n", tabla); 
+        // XD XDD
     }
 }
